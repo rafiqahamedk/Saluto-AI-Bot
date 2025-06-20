@@ -1,0 +1,7 @@
+Requirements:
+    1.flask
+    2.pyngrok
+    3.crewai
+
+So use Command to Download:
+    pip install pyngrok flask crewai openai
