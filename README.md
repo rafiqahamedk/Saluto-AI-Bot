@@ -108,8 +108,11 @@ Open the link in your browser to interact with the AI chat app.
 
 ### 🐍 ModuleNotFoundError
 → Recheck if crewai, flask, and pyngrok are installed properly.
+
 ---
 
 ## 📜 License
+
 This project is licensed under the MIT License.
+
 ---
