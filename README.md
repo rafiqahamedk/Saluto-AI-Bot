@@ -31,10 +31,11 @@ The app uses **Ngrok** for public tunneling during development so it can be acce
 
 ```bash
 Flask-CrewAI-Chat/
-├── app.py                # Main Flask app with agent integration
-├── templates/            # HTML templates (inlined with render_template_string)
-├── static/               # (Optional) CSS/JS if separated later
-├── requirements.txt      # Python dependencies
+├── app.py            # Main Flask app with agent integration
+├── requirements.txt  # Python dependencies format
+├── templates/        # Currently unused (HTML is inlined)
+├── static/           # Optional (for future CSS/JS)
+
 ```
 ---
 
